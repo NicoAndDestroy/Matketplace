@@ -17,7 +17,7 @@ width: 80%;
 
 padding: 1em;
 text-align: left;
-border: 2px solid;
+border: 1.2px solid;
 border-radius: 1%;
 margin: auto;
 }
@@ -25,7 +25,7 @@ margin: auto;
 #container h1
 
 {
-font-size: 15px;
+font-size: 20px;
 }
 #cabecera
 
@@ -50,6 +50,6 @@ font-size: 15px;
 
 p
 {
-    font-size: 20;
+    font-size: 15px
 
 }
